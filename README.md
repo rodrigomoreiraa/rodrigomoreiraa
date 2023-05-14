@@ -1,8 +1,8 @@
  ### Ooi, eu sou o Rodrigo Moreira!
 
-- Desenvolvimento de fron-end em HTMLe CSS
+- Desenvolvimento de fron-end em HTML e CSS
 - Estudando PHP
-- Conhecimento em Pyhthon
+- Conhecimento em Phython
 
 ******
 
