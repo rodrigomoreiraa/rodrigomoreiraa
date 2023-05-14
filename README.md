@@ -3,7 +3,7 @@
   Ooi, eu sou Rodrigo Moreira! 
  </h1>
 <p>
-&#x1F5BC; Experiência com fron-end em HTML e CSS <br>
+&#x1F5BC; Experiência com front-end em HTML e CSS <br>
 &#x1F418; Estudando PHP <br>
 &#x1F40D; Conhecimento em Python <br>
  </P>
