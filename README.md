@@ -1,12 +1,13 @@
-### Ooi, eu sou o Rodrigo Moreira
+ ### Ooi, eu sou o Rodrigo Moreira!
 
-- Desenvolvimento de fron-end em HTML E CSS
+- Desenvolvimento de fron-end em HTML CSS
 - Estudando PHP
 - Conhecimento em Pyhthon
 
-### Tecnologias que eu uso no meu dia dia 
+******
 
-   <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Imagem1">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Imagem 2">
-    </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomoreiraa&theme=github_dark&size_weight=1&layout=compact)](https://github.com/rodrigomoreiraa/github-readme-stats) 
+
+
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigomoreiraa&theme=github_dark&repo=Camara-Links)](https://github.com/anuraghazra/github-readme-stats)                      
