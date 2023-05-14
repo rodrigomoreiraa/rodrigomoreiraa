@@ -1,10 +1,14 @@
- ### Ooi, eu sou o Rodrigo Moreira!
+ <div>
+ <h1> 
+  Ooi, eu sou Rodrigo Moreira! 
+ </h1>
+<p>
+&#x1F5BC; Experiência com fron-end em HTML e CSS <br>
+&#x1F418; Estudando PHP <br>
+&#x1F40D; Conhecimento em Phython <br>
+ </P>
+</div>
 
-- Desenvolvimento de fron-end em HTML e CSS
-- Estudando PHP
-- Conhecimento em Phython
-
-******
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomoreiraa&size_weight=1&layout=compact&locale=pt-br&hide_border=true&card_width=400px&bg_color=DEG,0d1117,30363d&title_color=2f81f7&text_color=C2D1AE&ring_color=000&)](https://github.com/rodrigomoreiraa/github-readme-stats) 
 
