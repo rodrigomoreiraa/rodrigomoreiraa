@@ -1,7 +1,4 @@
- <div>
- <h1> 
-  Ooi, eu sou Rodrigo Moreira! 
- </h1>
+# *Ooi, eu sou Rodrigo Moreira* #
 <p>
 &#x1F5BC; Experiência com front-end em HTML e CSS <br>
 &#x1F418; Estudando PHP <br>
