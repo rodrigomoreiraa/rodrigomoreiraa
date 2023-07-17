@@ -9,4 +9,4 @@
 
 
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigomoreiraa&repo=Camara-Links-&locale=pt-br&hide_border=true&bg_color=DEG,0d1117,30363d&title_color=2f81f7&text_color=fff&icon_color=005ad8&)](https://github.com/anuraghazra/github-readme-stats)                      
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigomoreiraa&repo=Camara-Links-2.0&locale=pt-br&hide_border=true&bg_color=DEG,0d1117,30363d&title_color=2f81f7&text_color=fff&icon_color=005ad8&)](https://github.com/anuraghazra/github-readme-stats)                      
